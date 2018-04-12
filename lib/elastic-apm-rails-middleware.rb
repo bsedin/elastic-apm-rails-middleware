@@ -1,0 +1,1 @@
+require_relative 'elastic_apm_rails_middleware'
